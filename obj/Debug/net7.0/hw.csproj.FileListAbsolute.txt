@@ -1,0 +1,7 @@
+D:\זילברברג\2023-12-19\Task\obj\Debug\net7.0\hw.csproj.AssemblyReference.cache
+D:\זילברברג\2023-12-19\Task\obj\Debug\net7.0\hw.GeneratedMSBuildEditorConfig.editorconfig
+D:\זילברברג\2023-12-19\Task\obj\Debug\net7.0\hw.AssemblyInfoInputs.cache
+D:\זילברברג\2023-12-19\Task\obj\Debug\net7.0\hw.AssemblyInfo.cs
+D:\זילברברג\2023-12-19\Task\obj\Debug\net7.0\hw.csproj.CoreCompileInputs.cache
+D:\זילברברג\2023-12-19\Task\obj\Debug\net7.0\hw.MvcApplicationPartsAssemblyInfo.cs
+D:\זילברברג\2023-12-19\Task\obj\Debug\net7.0\hw.MvcApplicationPartsAssemblyInfo.cache
