@@ -1,21 +1,32 @@
 using TaskPro.Models;
 using TaskPro.Interfaces;
 using Microsoft.Extensions.DependencyInjection;
+using System.Linq;
+using System.IO;
+using System;
+using System.Text.Json;
 
 namespace TaskPro.Services;
 
 public class TaskService : ITaskService{
     private List<TaskPro.Models.Task> tasks;
+    private string fileName;
 
-    public TaskService(){
-        tasks=new List<TaskPro.Models.Task>
-        {
-            new TaskPro.Models.Task{Id=1,Name="home work",isDone=false},
-            new TaskPro.Models.Task{Id=2,Name="wash dishes",isDone=true},
-            new TaskPro.Models.Task{Id=3,Name="read",isDone=true}
-        };
+    public TaskService(IWebHostEnvinronment webHost){
+       this.fileName=Path.Combine(webHost.ContentRootPath,"Data","tasks.json");
+       using(var jsonFile=File.OpenText(fileName)){
+        tasks=JsonSerializer.Deserialize<List<TaskPro.Models.Task>>(jsonFile.ReadToEnd(),
+        new JsonSerializerOptions{
+            PropertyNameCaseInsensitive = true
+        });
+       }
     }
 
+    private void saveToFile()
+    {
+        File.WriteAllText(fileName,JsonSerializer.Serialize(tasks));
+    }
+    
     public  List<TaskPro.Models.Task> GetAll()=>tasks;
 
     public  TaskPro.Models.Task GetById(int id){
@@ -28,6 +39,7 @@ public class TaskService : ITaskService{
         else
             task.Id=tasks.Max(task=>task.Id)+1;
         tasks.Add(task);
+        saveToFile();
         return task.Id;
     }
 
@@ -39,6 +51,7 @@ public class TaskService : ITaskService{
         if(ind==-1)
             return false;
         tasks.RemoveAt(ind);
+        saveToFile();
         return true;
     }
 
@@ -52,6 +65,7 @@ public class TaskService : ITaskService{
         if(ind==-1)
             return false;
         tasks[ind]=task;
+        saveToFile();
         return true;
     }
 }
