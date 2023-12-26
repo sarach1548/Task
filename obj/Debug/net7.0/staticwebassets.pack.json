@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "Z:\\B\\חזקיהו שרה\\זילברברג\\TaskPro\\Task\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "Z:\\B\\חזקיהו שרה\\זילברברג\\TaskPro\\Task\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "Z:\\B\\חזקיהו שרה\\זילברברג\\TaskPro\\Task\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.TaskPro.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.TaskPro.props",
+      "PackagePath": "build\\TaskPro.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.TaskPro.props",
+      "PackagePath": "buildMultiTargeting\\TaskPro.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.TaskPro.props",
+      "PackagePath": "buildTransitive\\TaskPro.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

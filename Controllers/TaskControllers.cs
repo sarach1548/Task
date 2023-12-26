@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using TaskPro.Models;
-using TaskPro.Services;
+using TaskPro.Interfaces;
 
 namespace TaskPro.Controllers;
 
@@ -8,6 +8,10 @@ namespace TaskPro.Controllers;
 [Route("[controller]")]
 public class TaskControllers : ControllerBase
 {
+    ITaskService TaskService;
+    public TaskControllers(ITaskService TaskService){
+        this.TaskService=TaskService;
+    }
     [HttpGet]
     public ActionResult<List<TaskPro.Models.Task>> Get()=>TaskService.GetAll();
 

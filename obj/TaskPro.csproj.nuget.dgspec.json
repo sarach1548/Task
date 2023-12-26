@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\זילברברג\\2023-12-19\\TaskPro\\TaskPro.csproj": {}
+    "Z:\\B\\חזקיהו שרה\\זילברברג\\TaskPro\\Task\\TaskPro.csproj": {}
   },
   "projects": {
-    "D:\\זילברברג\\2023-12-19\\TaskPro\\TaskPro.csproj": {
+    "Z:\\B\\חזקיהו שרה\\זילברברג\\TaskPro\\Task\\TaskPro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\זילברברג\\2023-12-19\\TaskPro\\TaskPro.csproj",
+        "projectUniqueName": "Z:\\B\\חזקיהו שרה\\זילברברג\\TaskPro\\Task\\TaskPro.csproj",
         "projectName": "TaskPro",
-        "projectPath": "D:\\זילברברג\\2023-12-19\\TaskPro\\TaskPro.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\זילברברג\\2023-12-19\\TaskPro\\obj\\",
+        "projectPath": "Z:\\B\\חזקיהו שרה\\זילברברג\\TaskPro\\Task\\TaskPro.csproj",
+        "packagesPath": "C:\\Users\\huser\\.nuget\\packages\\",
+        "outputPath": "Z:\\B\\חזקיהו שרה\\זילברברג\\TaskPro\\Task\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\huser\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -47,7 +47,7 @@
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[7.0.14, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -73,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

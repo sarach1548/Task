@@ -31,3 +31,37 @@ D:\זילברברג\2023-12-19\TaskPro\obj\Debug\net7.0\refint\TaskPro.dll
 D:\זילברברג\2023-12-19\TaskPro\obj\Debug\net7.0\TaskPro.pdb
 D:\זילברברג\2023-12-19\TaskPro\obj\Debug\net7.0\TaskPro.genruntimeconfig.cache
 D:\זילברברג\2023-12-19\TaskPro\obj\Debug\net7.0\ref\TaskPro.dll
+Z:\B\חזקיהו שרה\זילברברג\TaskPro\Task\obj\Debug\net7.0\TaskPro.csproj.AssemblyReference.cache
+Z:\B\חזקיהו שרה\זילברברג\TaskPro\Task\obj\Debug\net7.0\TaskPro.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\חזקיהו שרה\זילברברג\TaskPro\Task\obj\Debug\net7.0\TaskPro.AssemblyInfoInputs.cache
+Z:\B\חזקיהו שרה\זילברברג\TaskPro\Task\obj\Debug\net7.0\TaskPro.AssemblyInfo.cs
+Z:\B\חזקיהו שרה\זילברברג\TaskPro\Task\obj\Debug\net7.0\TaskPro.csproj.CoreCompileInputs.cache
+Z:\B\חזקיהו שרה\זילברברג\TaskPro\Task\obj\Debug\net7.0\TaskPro.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\חזקיהו שרה\זילברברג\TaskPro\Task\obj\Debug\net7.0\TaskPro.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\חזקיהו שרה\זילברברג\TaskPro\Task\obj\Debug\net7.0\TaskPro.dll
+Z:\B\חזקיהו שרה\זילברברג\TaskPro\Task\obj\Debug\net7.0\refint\TaskPro.dll
+Z:\B\חזקיהו שרה\זילברברג\TaskPro\Task\obj\Debug\net7.0\TaskPro.pdb
+Z:\B\חזקיהו שרה\זילברברג\TaskPro\Task\bin\Debug\net7.0\appsettings.Development.json
+Z:\B\חזקיהו שרה\זילברברג\TaskPro\Task\bin\Debug\net7.0\appsettings.json
+Z:\B\חזקיהו שרה\זילברברג\TaskPro\Task\bin\Debug\net7.0\TaskPro.exe
+Z:\B\חזקיהו שרה\זילברברג\TaskPro\Task\bin\Debug\net7.0\TaskPro.deps.json
+Z:\B\חזקיהו שרה\זילברברג\TaskPro\Task\bin\Debug\net7.0\TaskPro.runtimeconfig.json
+Z:\B\חזקיהו שרה\זילברברג\TaskPro\Task\bin\Debug\net7.0\TaskPro.dll
+Z:\B\חזקיהו שרה\זילברברג\TaskPro\Task\bin\Debug\net7.0\TaskPro.pdb
+Z:\B\חזקיהו שרה\זילברברג\TaskPro\Task\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+Z:\B\חזקיהו שרה\זילברברג\TaskPro\Task\bin\Debug\net7.0\Microsoft.OpenApi.dll
+Z:\B\חזקיהו שרה\זילברברג\TaskPro\Task\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\חזקיהו שרה\זילברברג\TaskPro\Task\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\חזקיהו שרה\זילברברג\TaskPro\Task\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\חזקיהו שרה\זילברברג\TaskPro\Task\obj\Debug\net7.0\staticwebassets\msbuild.TaskPro.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\B\חזקיהו שרה\זילברברג\TaskPro\Task\obj\Debug\net7.0\staticwebassets\msbuild.build.TaskPro.props
+Z:\B\חזקיהו שרה\זילברברג\TaskPro\Task\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TaskPro.props
+Z:\B\חזקיהו שרה\זילברברג\TaskPro\Task\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TaskPro.props
+Z:\B\חזקיהו שרה\זילברברג\TaskPro\Task\obj\Debug\net7.0\staticwebassets.pack.json
+Z:\B\חזקיהו שרה\זילברברג\TaskPro\Task\obj\Debug\net7.0\staticwebassets.build.json
+Z:\B\חזקיהו שרה\זילברברג\TaskPro\Task\obj\Debug\net7.0\staticwebassets.development.json
+Z:\B\חזקיהו שרה\זילברברג\TaskPro\Task\obj\Debug\net7.0\scopedcss\bundle\TaskPro.styles.css
+Z:\B\חזקיהו שרה\זילברברג\TaskPro\Task\obj\Debug\net7.0\TaskPro.csproj.CopyComplete
+Z:\B\חזקיהו שרה\זילברברג\TaskPro\Task\obj\Debug\net7.0\TaskPro.genruntimeconfig.cache
+Z:\B\חזקיהו שרה\זילברברג\TaskPro\Task\obj\Debug\net7.0\ref\TaskPro.dll
+Z:\B\חזקיהו שרה\זילברברג\TaskPro\Task\bin\Debug\net7.0\TaskPro.staticwebassets.runtime.json

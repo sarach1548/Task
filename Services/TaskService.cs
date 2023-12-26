@@ -1,10 +1,13 @@
 using TaskPro.Models;
+using TaskPro.Interfaces;
+using Microsoft.Extensions.DependencyInjection;
+
 namespace TaskPro.Services;
 
-public static class TaskService{
-    private static List<TaskPro.Models.Task> tasks;
+public class TaskService : ITaskService{
+    private List<TaskPro.Models.Task> tasks;
 
-    static TaskService(){
+    public TaskService(){
         tasks=new List<TaskPro.Models.Task>
         {
             new TaskPro.Models.Task{Id=1,Name="home work",isDone=false},
@@ -13,13 +16,13 @@ public static class TaskService{
         };
     }
 
-    public static List<TaskPro.Models.Task> GetAll()=>tasks;
+    public  List<TaskPro.Models.Task> GetAll()=>tasks;
 
-    public static TaskPro.Models.Task GetById(int id){
+    public  TaskPro.Models.Task GetById(int id){
       return tasks.FirstOrDefault(t=>t.Id==id);
     }
 
-    public static int Add(TaskPro.Models.Task task){
+    public  int Add(TaskPro.Models.Task task){
         if(tasks.Count==0)
             task.Id=1;
         else
@@ -28,7 +31,7 @@ public static class TaskService{
         return task.Id;
     }
 
-    public static bool Delete(int id){
+    public  bool Delete(int id){
         var taskToDel=GetById(id);
         if(taskToDel==null)
             return false;
@@ -39,7 +42,7 @@ public static class TaskService{
         return true;
     }
 
-    public static bool Update(int id ,TaskPro.Models.Task task){
+    public  bool Update(int id ,TaskPro.Models.Task task){
         if(id!=task.Id)
             return false;
         var taskToUpdate=GetById(id);
@@ -50,5 +53,12 @@ public static class TaskService{
             return false;
         tasks[ind]=task;
         return true;
+    }
+}
+
+public static class TaskUtils
+{
+    public static void AddTaskList(this IServiceCollection services){
+        services.AddSingleton<ITaskService,TaskService>();
     }
 }
