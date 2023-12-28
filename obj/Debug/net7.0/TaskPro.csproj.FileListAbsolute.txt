@@ -65,3 +65,37 @@ Z:\B\חזקיהו שרה\זילברברג\TaskPro\Task\obj\Debug\net7.0\TaskPro.
 Z:\B\חזקיהו שרה\זילברברג\TaskPro\Task\obj\Debug\net7.0\TaskPro.genruntimeconfig.cache
 Z:\B\חזקיהו שרה\זילברברג\TaskPro\Task\obj\Debug\net7.0\ref\TaskPro.dll
 Z:\B\חזקיהו שרה\זילברברג\TaskPro\Task\bin\Debug\net7.0\TaskPro.staticwebassets.runtime.json
+C:\Users\huser\Task\obj\Debug\net7.0\TaskPro.csproj.AssemblyReference.cache
+C:\Users\huser\Task\obj\Debug\net7.0\TaskPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huser\Task\obj\Debug\net7.0\TaskPro.AssemblyInfoInputs.cache
+C:\Users\huser\Task\obj\Debug\net7.0\TaskPro.AssemblyInfo.cs
+C:\Users\huser\Task\obj\Debug\net7.0\TaskPro.csproj.CoreCompileInputs.cache
+C:\Users\huser\Task\obj\Debug\net7.0\TaskPro.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\huser\Task\obj\Debug\net7.0\TaskPro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\huser\Task\obj\Debug\net7.0\TaskPro.dll
+C:\Users\huser\Task\obj\Debug\net7.0\refint\TaskPro.dll
+C:\Users\huser\Task\obj\Debug\net7.0\TaskPro.pdb
+C:\Users\huser\Task\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\huser\Task\bin\Debug\net7.0\appsettings.json
+C:\Users\huser\Task\bin\Debug\net7.0\TaskPro.staticwebassets.runtime.json
+C:\Users\huser\Task\bin\Debug\net7.0\TaskPro.exe
+C:\Users\huser\Task\bin\Debug\net7.0\TaskPro.deps.json
+C:\Users\huser\Task\bin\Debug\net7.0\TaskPro.runtimeconfig.json
+C:\Users\huser\Task\bin\Debug\net7.0\TaskPro.dll
+C:\Users\huser\Task\bin\Debug\net7.0\TaskPro.pdb
+C:\Users\huser\Task\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\huser\Task\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\huser\Task\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\huser\Task\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\huser\Task\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\huser\Task\obj\Debug\net7.0\staticwebassets\msbuild.TaskPro.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\huser\Task\obj\Debug\net7.0\staticwebassets\msbuild.build.TaskPro.props
+C:\Users\huser\Task\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TaskPro.props
+C:\Users\huser\Task\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TaskPro.props
+C:\Users\huser\Task\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\huser\Task\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\huser\Task\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\huser\Task\obj\Debug\net7.0\scopedcss\bundle\TaskPro.styles.css
+C:\Users\huser\Task\obj\Debug\net7.0\TaskPro.csproj.CopyComplete
+C:\Users\huser\Task\obj\Debug\net7.0\TaskPro.genruntimeconfig.cache
+C:\Users\huser\Task\obj\Debug\net7.0\ref\TaskPro.dll

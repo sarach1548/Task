@@ -5,16 +5,17 @@ using System.Linq;
 using System.IO;
 using System;
 using System.Text.Json;
-
+using Microsoft.AspNetCore.Hosting;
 namespace TaskPro.Services;
 
 public class TaskService : ITaskService{
-    private List<TaskPro.Models.Task> tasks;
+    private List<TaskPro.Models.Task> tasks=new List<TaskPro.Models.Task>();
     private string fileName;
 
-    public TaskService(IWebHostEnvinronment webHost){
-       this.fileName=Path.Combine(webHost.ContentRootPath,"Data","tasks.json");
+    public TaskService(/*IWebHostEnvinronment webHost*/){
+       this.fileName=Path.Combine(/*webHost.ContentRootPath,*/"wwwroot","data","tasks.json");
        using(var jsonFile=File.OpenText(fileName)){
+        // tasks=new List<TaskPro.Models.Task>();
         tasks=JsonSerializer.Deserialize<List<TaskPro.Models.Task>>(jsonFile.ReadToEnd(),
         new JsonSerializerOptions{
             PropertyNameCaseInsensitive = true

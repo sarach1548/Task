@@ -1,15 +1,19 @@
 {
   "Files": [
     {
-      "Id": "Z:\\B\\חזקיהו שרה\\זילברברג\\TaskPro\\Task\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\huser\\Task\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "Z:\\B\\חזקיהו שרה\\זילברברג\\TaskPro\\Task\\wwwroot\\index.html",
+      "Id": "C:\\Users\\huser\\Task\\wwwroot\\data\\tasks.json",
+      "PackagePath": "staticwebassets\\data\\tasks.json"
+    },
+    {
+      "Id": "C:\\Users\\huser\\Task\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "Z:\\B\\חזקיהו שרה\\זילברברג\\TaskPro\\Task\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\huser\\Task\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {

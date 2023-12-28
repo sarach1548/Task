@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pKF1Eh9TobeaDhKfgdD926p4o1Y3CKeSW3KecY81QL8=",
+  "Hash": "Nado/bFNAP0yJ6L7tGr7ihCjPTuJ9Qvg4RnfI3VpJtQ=",
   "Source": "TaskPro",
   "BasePath": "_content/TaskPro",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TaskPro\\wwwroot",
       "Source": "TaskPro",
-      "ContentRoot": "Z:\\B\\חזקיהו שרה\\זילברברג\\TaskPro\\Task\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\huser\\Task\\wwwroot\\",
       "BasePath": "_content/TaskPro",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "Z:\\B\\חזקיהו שרה\\זילברברג\\TaskPro\\Task\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\huser\\Task\\wwwroot\\css\\site.css",
       "SourceId": "TaskPro",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\B\\חזקיהו שרה\\זילברברג\\TaskPro\\Task\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\huser\\Task\\wwwroot\\",
       "BasePath": "_content/TaskPro",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -34,10 +34,27 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "Z:\\B\\חזקיהו שרה\\זילברברג\\TaskPro\\Task\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\huser\\Task\\wwwroot\\data\\tasks.json",
       "SourceId": "TaskPro",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\B\\חזקיהו שרה\\זילברברג\\TaskPro\\Task\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\huser\\Task\\wwwroot\\",
+      "BasePath": "_content/TaskPro",
+      "RelativePath": "data/tasks.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\data\\tasks.json"
+    },
+    {
+      "Identity": "C:\\Users\\huser\\Task\\wwwroot\\index.html",
+      "SourceId": "TaskPro",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\huser\\Task\\wwwroot\\",
       "BasePath": "_content/TaskPro",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -51,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "Z:\\B\\חזקיהו שרה\\זילברברג\\TaskPro\\Task\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\huser\\Task\\wwwroot\\js\\site.js",
       "SourceId": "TaskPro",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\B\\חזקיהו שרה\\זילברברג\\TaskPro\\Task\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\huser\\Task\\wwwroot\\",
       "BasePath": "_content/TaskPro",
       "RelativePath": "js/site.js",
       "AssetKind": "All",

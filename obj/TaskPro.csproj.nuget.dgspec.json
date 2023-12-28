@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\B\\חזקיהו שרה\\זילברברג\\TaskPro\\Task\\TaskPro.csproj": {}
+    "C:\\Users\\huser\\Task\\TaskPro.csproj": {}
   },
   "projects": {
-    "Z:\\B\\חזקיהו שרה\\זילברברג\\TaskPro\\Task\\TaskPro.csproj": {
+    "C:\\Users\\huser\\Task\\TaskPro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\B\\חזקיהו שרה\\זילברברג\\TaskPro\\Task\\TaskPro.csproj",
+        "projectUniqueName": "C:\\Users\\huser\\Task\\TaskPro.csproj",
         "projectName": "TaskPro",
-        "projectPath": "Z:\\B\\חזקיהו שרה\\זילברברג\\TaskPro\\Task\\TaskPro.csproj",
+        "projectPath": "C:\\Users\\huser\\Task\\TaskPro.csproj",
         "packagesPath": "C:\\Users\\huser\\.nuget\\packages\\",
-        "outputPath": "Z:\\B\\חזקיהו שרה\\זילברברג\\TaskPro\\Task\\obj\\",
+        "outputPath": "C:\\Users\\huser\\Task\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
